@@ -1,2 +1,0 @@
-# ariiardana.github.io
-Web 
