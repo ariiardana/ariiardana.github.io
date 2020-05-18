@@ -1,0 +1,17 @@
+body p{
+    font-size: 1.15rem;
+}
+
+h3{
+    margin-top: 5rem;
+}
+
+#mypict{
+    max-width: 160px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#sosmed a{
+    margin-right: 10px;
+}
