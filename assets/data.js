@@ -14,6 +14,6 @@ const projek = [{
         desc: 'Info Covid-19 Real-Time',
         dibuat: 'html, css, javascript',
         status: 'selesai',
-        foto: './assets//img/img1.png'
+        foto: './assets//img/img2.png'
     },
 ]
