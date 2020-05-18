@@ -1,6 +1,6 @@
 const projek = [{
         nama: 'Tembak MacOs',
-        sc: 'https://github.com/ariiardana/ariiardana.github.io/somebody',
+        sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/somebody',
         web: 'https://ariiardana.github.io/somebody',
         desc: 'Buat Nembak Ceue :v',
         dibuat: 'html, css, javascript',
