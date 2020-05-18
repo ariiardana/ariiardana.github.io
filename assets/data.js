@@ -7,6 +7,7 @@ const projek = [{
         status: 'selesai',
         foto: './assets//img/img1.png'
     },
+                {
         nama: 'Info Covid-19',
         sc: 'https://github.com/ariiardana/ariiardana.github.io/covid',
         web: 'https://ariiardana.github.io/covid',
