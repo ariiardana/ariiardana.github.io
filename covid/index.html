@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Info COVID-19</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Import Spectre CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/spectre.css/dist/spectre.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css"
+    />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/styles/style.css" />
+
+  </head>
+  <body>
+        <section class="container">
+      <div class="head">
+        <h1>
+          <span class="label label-success">Info</span> COVID - 19
+        </h1>
+      </div>
+      <!-- Data Global-->
+      <div>
+        <h4 class="data-title dt-global">
+          Global 🌐
+        </h4>
+      </div>
+      <div class="columns data data-global">
+        <div class="card data-terjangkit column col-mx-auto"  data-tilt>
+          <div class="card-header">
+            <div class="card-title h5">Total Terjangkit</div>
+            <div class="card-subtitle h5">
+              🤢
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="jumlah-terjangkit" class="text-warning"></h6>
+          </div>
+        </div>
+        <div class="card data-sembuh column col-mx-auto"  data-tilt >
+          <div class="card-header">
+            <div class="card-title h5 ">Total Sembuh</div>
+            <div class="card-subtitle h5">
+              😃
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="jumlah-sembuh" class="text-success"></h6>
+          </div>
+        </div>
+        <div class="card data-meninggal column col-mx-auto" data-tilt >
+          <div class="card-header">
+            <div class="card-title h5">Total Meninggal</div>
+            <div class="card-subtitle h5">
+              💀
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="jumlah-meninggal" class="text-error"></h6>
+          </div>
+        </div>
+      </div>
+      <!-- Data Indonesia-->
+      <div>
+        <h4 class="data-title dt-indo">
+          Indonesia 🇮🇩
+        </h4>
+      </div>
+      <div class="columns data data-global">
+        <div class="card data-terjangkit column col-mx-auto" data-tilt >
+          <div class="card-header">
+            <div class="card-title h5">Total Terjangkit</div>
+            <div class="card-subtitle h5">
+              🤢
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="jt-indo" class="text-warning"></h6>
+          </div>
+        </div>
+        <div class="card data-sembuh column col-mx-auto" data-tilt >
+          <div class="card-header">
+            <div class="card-title h5 ">Total Sembuh</div>
+            <div class="card-subtitle h5">
+              😃
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="js-indo" class="text-success"></h6>
+          </div>
+        </div>
+        <div class="card data-meninggal column col-mx-auto" data-tilt >
+          <div class="card-header">
+            <div class="card-title h5">Total Meninggal</div>
+            <div class="card-subtitle h5">
+              💀
+            </div>
+          </div>
+          <div class="card-body">
+            <h6 id="jm-indo" class="text-error"></h6>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div class="footer">
+        Made With <span class="love">HTML</span> <span class="css">CSS</span> and <span class="js">JS</span>
+        <br />
+        API Provided by <a href="https://github.com/mathdroid/covid-19-api">Mathdroid</a>
+      </div>
+    </section> 
+  </body>
+
+  <!-- import the webpage's javascript file -->
+  <script src="/scripts/main.js" defer></script>
+  <!--- Import tilt.javascript  -->
+  <script src="/scripts/tilt.js"></script>
+</html>
+
