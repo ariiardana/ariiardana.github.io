@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;500;600&display=swap");
+
+body {
+  background-color: #1C1E29;
+  font-family: "Baloo Thambi 2", cursive !important;
+}
+.head {
+  color: #fff;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.data {
+  text-align: center;
+}
+
+.card {
+  margin: 0.78rem;
+  width: 4rem;
+  border-radius: 1.2rem;
+  border-right: 5px #8D94B2 solid;
+  border-bottom: 2px #8D94B2 solid;
+}
+
+.data-title {
+  text-align: center;
+}
+
+.dt-global {
+  color: #06CED1;
+}
+
+.dt-indo {
+  color: #F1406E;
+}
+
+.footer {
+  margin-bottom: 2%;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+.love {
+  color: #F1406E !important ;
+}
+
+.js {
+  color: #FFA600 !important;
+}
+
+.css {
+  color: #06CED1 !important;
+}
+
