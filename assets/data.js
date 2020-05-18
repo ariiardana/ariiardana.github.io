@@ -9,7 +9,7 @@ const projek = [{
     },
     {
         nama: 'Info Covid-19',
-        sc: 'https://github.com/ariiardana/ariiardana.github.io/covid',
+        sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/covid',
         web: 'https://ariiardana.github.io/covid',
         desc: 'Info Covid-19 Real-Time',
         dibuat: 'html, css, javascript',
