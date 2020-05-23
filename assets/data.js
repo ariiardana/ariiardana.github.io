@@ -16,4 +16,14 @@ const projek = [{
         status: 'selesai',
         foto: './assets//img/img2.png'
     },
+                {
+                        
+        nama: 'Selamat Hari Raya Idul Fitri 1441 H.',
+        sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/idulfitri',
+        web: 'https://ariiardana.github.io/idulfitri',
+        desc: '',
+        dibuat: 'html, css, javascript',
+        status: 'selesai',
+        foto: './assets//img/img3.png'
+                }
 ]
