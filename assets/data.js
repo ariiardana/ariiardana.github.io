@@ -3,7 +3,7 @@ const projek = [{
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/somebody',
         web: 'https://ariiardana.github.io/somebody',
         desc: 'Buat Nembak Ceue :v',
-        dibuat: 'html, css, javascript',
+        dibuat: 'HTML,CSS, Javascript',
         status: 'selesai',
         foto: './assets//img/img1.png'
     },
@@ -12,7 +12,7 @@ const projek = [{
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/covid',
         web: 'https://ariardana.cf/covid',
         desc: 'Info Covid-19 Real-Time',
-        dibuat: 'html, css, javascript',
+        dibuat: 'HTML, CSS, Javascript',
         status: 'selesai',
         foto: './assets//img/img2.png'
     },
@@ -22,18 +22,18 @@ const projek = [{
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/idulfitri',
         web: 'https://ariardana.cf/idulfitri',
         desc: '',
-        dibuat: 'html, css, javascript',
+        dibuat: 'HTML, CSS, Javascript',
         status: 'selesai',
         foto: './assets//img/img3.png'
-                }
+                },
                 {
                         
         nama: 'Flappy Bird Game',
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/flappy-bird',
         web: 'https://ariardana.cf/flappy-bird',
         desc: '',
-        dibuat: 'html, css, javascript',
+        dibuat: 'HTML, VanillaJS',
         status: 'selesai',
         foto: './assets//img/img4.png'
-                }
+                },
 ]
