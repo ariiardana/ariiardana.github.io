@@ -10,7 +10,7 @@ const projek = [{
     {
         nama: 'Info Covid-19',
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/covid',
-        web: 'https://ariiardana.github.io/covid',
+        web: 'https://ariardana.cf/covid',
         desc: 'Info Covid-19 Real-Time',
         dibuat: 'html, css, javascript',
         status: 'selesai',
@@ -20,10 +20,20 @@ const projek = [{
                         
         nama: 'Selamat Hari Raya Idul Fitri 1441 H.',
         sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/idulfitri',
-        web: 'https://ariiardana.github.io/idulfitri',
+        web: 'https://ariardana.cf/idulfitri',
         desc: '',
         dibuat: 'html, css, javascript',
         status: 'selesai',
         foto: './assets//img/img3.png'
+                }
+                {
+                        
+        nama: 'Flappy Bird Game',
+        sc: 'https://github.com/ariiardana/ariiardana.github.io/tree/master/flappy-bird',
+        web: 'https://ariardana.cf/flappy-bird',
+        desc: '',
+        dibuat: 'html, css, javascript',
+        status: 'selesai',
+        foto: './assets//img/img4.png'
                 }
 ]
