@@ -36,4 +36,14 @@ const projek = [{
         status: 'selesai',
         foto: './assets//img/img4.png'
                 },
+                {
+                        
+        nama: 'Web Kelas XII TKJ 2',
+        sc: '',
+        web: 'https://xiitkj2.ga/',
+        desc: '',
+        dibuat: 'HTML, CSS, Javascript',
+        status: 'selesai',
+        foto: './assets//img/img5.png'
+                },
 ]
