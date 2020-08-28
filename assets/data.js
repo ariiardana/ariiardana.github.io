@@ -42,7 +42,7 @@ const projek = [{
         sc: '',
         web: 'https://xiitkj2.ga/',
         desc: '',
-        dibuat: 'HTML, CSS, Javascript',
+        dibuat: 'HTML, Bootstrap, CSS, Javascript',
         status: 'selesai',
         foto: './assets//img/img5.png'
                 },
