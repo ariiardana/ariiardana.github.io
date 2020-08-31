@@ -40,7 +40,7 @@ const projek = [{
                         
         nama: 'Web Kelas XII TKJ 2',
         sc: '',
-        web: 'https://xiitkj2.ga/',
+        web: 'https://xiitkj2.my.id/',
         desc: '',
         dibuat: 'HTML, Bootstrap, CSS, Javascript',
         status: 'selesai',
